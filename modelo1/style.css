@@ -23,7 +23,6 @@ body {
     justify-content: space-around;
     width: 60%;
     height: 100vh;
-	float: left
 }
 
 .instagram-phone {
@@ -44,7 +43,6 @@ body {
     flex-direction: column;
     width: 50%;
     min-height: 34rem;
-	float: left;
 }
 
 .group {
